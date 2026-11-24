@@ -1,0 +1,7 @@
+# The game configuration settings
+
+OUTER_BOARD_SIZE = 40
+TILE_PAYOUTS = {"START": (50, 50), "GREEN": (5, 15), "YELLOW": (25, 32), "BLUE": (45,60),"BLANK": (0,0), "TASK": (0, 0)}
+# TILE_PAYOUTS = {"START" : 0, "GREEN" : (2,4,5,8,12,15,16,18,21,22,27,28,31,32,36,39), "YELLOW" : (3,7,14,17,26,29,34,38),"BLUE": (1,19,33)}
+SHOP_PRICES = {"FOOD" : 0, "DRUGS": 0, "ALCOHOL": 0, "PROTEIN": 0,"POS_CARD": 0, "NEG_CARD": 0  }
+STARTING_BASE_HP = 12
